@@ -1,0 +1,2 @@
+day = 'Sunday'
+print(day)
